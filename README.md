@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ian Loron de Almeida</h1>
+<h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">A passionate computer science student from Brazil</h3>
 
 - 🔭 I’m currently working on **reinforcement learning studies**
